@@ -4,5 +4,6 @@
   <module moduleId="org.eclipse.jst.jee.server:Shoppingbuzz" serverId="Tomcat v10.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Servlet_object" serverId="Tomcat v10.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Url_rewritting" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Validateuserlogin" serverId="apache-tomcat-10.0.13 at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Hidden_form_field" serverId="Tomcat v10.0 Server at localhost"/>
 </modules>

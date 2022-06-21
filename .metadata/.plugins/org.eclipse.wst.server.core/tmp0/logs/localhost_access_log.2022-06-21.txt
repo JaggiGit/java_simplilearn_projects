@@ -1,1 +1,9 @@
 0:0:0:0:0:0:0:1 - - [21/Jun/2022:10:17:44 +0530] "GET /ServletGetPost HTTP/1.1" 404 766
+127.0.0.1 - - [21/Jun/2022:14:37:02 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [21/Jun/2022:14:37:03 +0530] "GET /Validateuserlogin/loginuser.html HTTP/1.1" 200 453
+0:0:0:0:0:0:0:1 - - [21/Jun/2022:14:37:30 +0530] "POST /Validateuserlogin/https//:localhost:2122/com.simplilearn.java/LoginServlet HTTP/1.1" 404 846
+127.0.0.1 - - [21/Jun/2022:14:38:26 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [21/Jun/2022:14:38:38 +0530] "POST /Validateuserlogin/https//:localhost:2122/com.simplilearn.java/LoginServlet HTTP/1.1" 404 846
+127.0.0.1 - - [21/Jun/2022:14:42:47 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [21/Jun/2022:14:42:48 +0530] "GET /Validateuserlogin/loginuser.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Jun/2022:14:42:56 +0530] "POST /Validateuserlogin/https//:localhost:2122/com.simplilearn.java/LoginServlet HTTP/1.1" 404 846
