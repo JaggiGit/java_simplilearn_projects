@@ -1,0 +1,10 @@
+package com.filecreate2;
+
+public class Createfile2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

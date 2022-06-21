@@ -1,0 +1,13 @@
+package com.simplilearn.hibernate.xmlway.client;
+
+
+
+public class Client {
+
+	public static void main(String[] args) 
+	{
+	StandardServiceRegistry ssr=new StandardServiceRegistryBuilder().configure("hibernate.cfg.xml").build();
+    
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.simplilearn.dto;
+
+public class User {
+
+}

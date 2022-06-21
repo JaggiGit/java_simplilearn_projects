@@ -1,0 +1,5 @@
+package com.simplilearn.hinernate.xmlway.beans;
+
+public class Student {
+
+}

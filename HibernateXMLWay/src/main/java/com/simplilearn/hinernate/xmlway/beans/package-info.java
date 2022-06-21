@@ -1,0 +1,1 @@
+package com.simplilearn.hinernate.xmlway.beans;
